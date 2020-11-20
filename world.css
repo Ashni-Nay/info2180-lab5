@@ -13,6 +13,12 @@ header{
 	margin-bottom: 20px;
 }
 
+.head{
+	border-radius: 50px;
+	width: 150px;
+	height: 150px;
+}
+
 button{
 	border-radius: 5px;
 	background-color: rgba(27, 131, 45, 0.548);
