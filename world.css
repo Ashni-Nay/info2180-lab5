@@ -29,6 +29,12 @@ button{
 	
 }
 
+table{
+	text-align: left;
+	width: 1200px;
+	margin:auto;
+}
+
 input{
 	padding: 5px;
 	width: 90%;
